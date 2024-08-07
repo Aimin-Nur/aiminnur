@@ -8,7 +8,7 @@ function Profile() {
           <div className="cont valign">
             <div className="full-width">
               <div className="img">
-                <img src="/assets/imgs/header/profile.jpg" alt="" />
+                <img src="/assets/imgs/header/profile.png" alt="" />
                 <span className="icon">
                   <img src="/assets/imgs/header/icon1.png" alt="" />
                 </span>
@@ -20,12 +20,12 @@ function Profile() {
                 </span>
               </div>
               <div className="info text-center mt-30">
-                <h5>Pablo Gavi</h5>
+                <h5>Muhaimin Nur</h5>
                 <p className="fz-13 text-u">Available For Freelance</p>
               </div>
               <div className="social text-center mt-20">
                 <a href="#0">
-                  <i className="fab fa-behance"></i>
+                  <i className="fab fa-whatsapp"></i>
                 </a>
                 <a href="#0">
                   <i className="fab fa-github"></i>
@@ -34,7 +34,7 @@ function Profile() {
                   <i className="fab fa-linkedin-in"></i>
                 </a>
                 <a href="#0">
-                  <i className="fab fa-dribbble"></i>
+                  <i className="fab fa-instagram"></i>
                 </a>
               </div>
             </div>
@@ -42,12 +42,12 @@ function Profile() {
         </div>
         <div className="col-lg-8 content main-bg">
           <h1>
-            Hello, I’m <span className="main-color">Pablo Gavi</span>, Front-end
+            Hello, I’m <span className="main-color">Muhaimin Nur</span>, Website
             Developer and{' '}
             <span className="bord">
-              UX / UI Designer <i></i>
+              Data Science <i></i>
             </span>{' '}
-            Based in California.
+            South Sulawesi, Indonesia.
           </h1>
           <div className="stauts mt-80">
             <div className="d-flex align-items-center">
@@ -69,8 +69,8 @@ function Profile() {
               </div>
               <div>
                 <div className="butn-presv">
-                  <a href="#0" className="butn butn-md butn-bord radius-5 skew">
-                    <span>Dwonload C.V</span>
+                  <a href="https://drive.google.com/file/d/1NhXHtDquaHX32qiFvEvi4Qu0H6rlO6Rx/view" className="butn butn-md butn-bord radius-5 skew">
+                    <span>Curriculum Vitae</span>
                   </a>
                 </div>
               </div>

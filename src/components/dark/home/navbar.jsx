@@ -27,20 +27,15 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a href="#0" data-scroll-nav="4">
-                <span>Price</span>
-              </a>
-            </li>
-            <li className="nav-item">
               <a href="#0" data-scroll-nav="5">
                 <span>Contact</span>
               </a>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <a href="#0" data-scroll-nav="6">
                 <span>Blog</span>
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

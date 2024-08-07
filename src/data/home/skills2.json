@@ -1,17 +1,44 @@
 [
   {
+    "No" : "01",
     "photo": "/assets/imgs/awards/1.png",
-    "title": "Nominee",
-    "year": "2019"
+    "judul": "Intership Certification",
+    "title": "Back End Developer PT. Malewa",
+    "year": "2024"
   },
   {
+    "No" : "02",
     "photo": "/assets/imgs/awards/2.png",
-    "title": "Winner",
-    "year": "2020"
+    "judul": "Intership Certification",
+    "title": "Data Science ID/X Partners",
+    "year": "2024"
   },
   {
-    "photo": "/assets/imgs/awards/2.png",
-    "title": "Ruuners Up",
-    "year": "2021"
+    "No" : "03",
+    "photo": "/assets/imgs/awards/3.png",
+    "judul": "Coursera Certification",
+    "title": "Google Data Analytics",
+    "year": "2023"
+  },
+  {
+    "No" : "04",
+    "photo": "/assets/imgs/awards/4.png",
+    "judul": "Coursera Certification",
+    "title": "Google Business Intelligence",
+    "year": "2023"
+  },
+  {
+    "No" : "05",
+    "photo": "/assets/imgs/awards/5.png",
+    "judul": "AWS Training & Certification",
+    "title": "Machine Learning Essentials for Business and Techincal Decision Makers",
+    "year": "2024"
+  },
+  {
+    "No" : "06",
+    "photo": "/assets/imgs/awards/6.png",
+    "judul": "Skill Specialization",
+    "title": "Learning Path : Data Analyst & Data Science",
+    "year": "2023"
   }
 ]

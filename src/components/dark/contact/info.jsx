@@ -7,104 +7,43 @@ function Info() {
       data-scroll-index="5"
     >
       <div className="row">
-        <div className="col-lg-5">
+        <div className="col-lg-12">
           <div className="sec-head md-mb80 wow fadeIn">
             <h6 className="sub-title mb-15 opacity-7">Get In Touch</h6>
-            <h2 className="fz-50">Let is make your brand brilliant!</h2>
+            <h2 className="fz-50">Let is make your brand or idea brilliant!</h2>
             <p className="fz-15 mt-10">
               If you would like to work with us or just want to get in touch,
               we’d love to hear from you!
             </p>
             <div className="phone fz-30 fw-600 mt-30 underline">
-              <a href="#0" className="main-color">
-                +1 840 841 25 69
+              <a href="https://api.whatsapp.com/send/?phone=%2B6287812364164&text&type=phone_number&app_absent=0" className="main-color">
+                +62-878-1236-4164
               </a>
             </div>
             <ul className="rest social-text d-flex mt-60">
               <li className="mr-30">
-                <a href="#0" className="hover-this">
-                  <span className="hover-anim">Facebook</span>
-                </a>
-              </li>
-              <li className="mr-30">
-                <a href="#0" className="hover-this">
-                  <span className="hover-anim">Twitter</span>
-                </a>
-              </li>
-              <li className="mr-30">
-                <a href="#0" className="hover-this">
-                  <span className="hover-anim">LinkedIn</span>
-                </a>
-              </li>
-              <li>
-                <a href="#0" className="hover-this">
+                <a href="https://www.instagram.com/aimin_nur/" className="hover-this">
                   <span className="hover-anim">Instagram</span>
+                </a>
+              </li>
+              <li className="mr-30">
+                <a href="https://github.com/" className="hover-this">
+                  <span className="hover-anim">Github</span>
+                </a>
+              </li>
+              <li className="mr-30">
+                <a href="https://www.linkedin.com/in/muhammad-muhaimin-nur-81a3302ab" className="hover-this">
+                  <span className="hover-anim">LinkedIn</span>
                 </a>
               </li>
             </ul>
           </div>
         </div>
-        <div className="col-lg-7 valign">
-          <div className="full-width wow fadeIn">
-            <form id="contact-form" method="post" action="contact.php">
-              <div className="messages"></div>
-
-              <div className="controls row">
-                <div className="col-lg-6">
-                  <div className="form-group mb-30">
-                    <input
-                      id="form_name"
-                      type="text"
-                      name="name"
-                      placeholder="Name"
-                      required="required"
-                    />
-                  </div>
-                </div>
-
-                <div className="col-lg-6">
-                  <div className="form-group mb-30">
-                    <input
-                      id="form_email"
-                      type="email"
-                      name="email"
-                      placeholder="Email"
-                      required="required"
-                    />
-                  </div>
-                </div>
-
-                <div className="col-12">
-                  <div className="form-group mb-30">
-                    <input
-                      id="form_subject"
-                      type="text"
-                      name="subject"
-                      placeholder="Subject"
-                    />
-                  </div>
-                </div>
-
-                <div className="col-12">
-                  <div className="form-group">
-                    <textarea
-                      id="form_message"
-                      name="message"
-                      placeholder="Message"
-                      rows="4"
-                      required="required"
-                    ></textarea>
-                  </div>
-                  <div className="mt-30">
-                    <button type="submit">
-                      <span className="text">Send A Message</span>
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </form>
+          <div className="mt-30">
+              <button type="button">
+                  <a className="text" href="malto:aiminnur02@gmail.com">Send A Email</a>
+              </button>
           </div>
-        </div>
       </div>
     </div>
   );

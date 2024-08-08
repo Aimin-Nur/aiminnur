@@ -53,24 +53,24 @@ function Profile() {
             <div className="d-flex align-items-center">
               <div className="mr-40">
                 <div className="d-flex align-items-center">
-                  <h2>14</h2>
+                  <h2>4</h2>
                   <p>
-                    Years <br /> of Experance
+                    Years <br /> Learning Experance
                   </p>
                 </div>
               </div>
               <div className="mr-40">
                 <div className="d-flex align-items-center">
-                  <h2>6k</h2>
+                  <h2>49</h2>
                   <p>
-                    Clients <br /> Worldwide
+                    Project <br /> Releted Technology
                   </p>
                 </div>
               </div>
               <div>
                 <div className="butn-presv">
                   <a href="https://drive.google.com/file/d/1NhXHtDquaHX32qiFvEvi4Qu0H6rlO6Rx/view" className="butn butn-md butn-bord radius-5 skew">
-                    <span>Curriculum Vitae</span>
+                    <span>Donwload CV</span>
                   </a>
                 </div>
               </div>

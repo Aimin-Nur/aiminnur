@@ -19,7 +19,7 @@ function Skills() {
       <div className="awards mt-100">
         <div className="row md-marg">
           {data2.map((item, index) => (
-            <div key={index} className="col-lg-4">
+            <div key={index} className="col-lg-4 mt-4">
               <div
                 className="award-item sub-bg md-mb30 wow fadeInUp"
                 data-wow-delay=".2s"

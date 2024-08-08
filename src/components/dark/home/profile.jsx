@@ -24,16 +24,16 @@ function Profile() {
                 <p className="fz-13 text-u">Available For Freelance</p>
               </div>
               <div className="social text-center mt-20">
-                <a href="#0">
+                <a href="https://api.whatsapp.com/send/?phone=087812364164&text&type=phone_number&app_absent=0">
                   <i className="fab fa-whatsapp"></i>
                 </a>
-                <a href="#0">
+                <a href="https://github.com/Aimin-Nur?tab=repositories">
                   <i className="fab fa-github"></i>
                 </a>
-                <a href="#0">
+                <a href="https://www.linkedin.com/in/muhammad-muhaimin-nur-81a3302ab">
                   <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href="#0">
+                <a href="https://www.instagram.com/aimin_nur/">
                   <i className="fab fa-instagram"></i>
                 </a>
               </div>

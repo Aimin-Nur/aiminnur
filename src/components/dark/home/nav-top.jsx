@@ -12,24 +12,24 @@ function NavTop() {
           </div>
           <div className="col-md-4 valign">
             <div className="social text-center full-width">
-              <a href="#0">
-                <i className="fab fa-behance"></i>
+              <a href="https://api.whatsapp.com/send/?phone=087812364164&text&type=phone_number&app_absent=0">
+                <i className="fab fa-whatsapp"></i>
               </a>
-              <a href="#0">
+              <a href="https://github.com/Aimin-Nur?tab=repositories">
                 <i className="fab fa-github"></i>
               </a>
-              <a href="#0">
+              <a href="https://www.linkedin.com/in/muhammad-muhaimin-nur-81a3302ab">
                 <i className="fab fa-linkedin-in"></i>
               </a>
-              <a href="#0">
-                <i className="fab fa-dribbble"></i>
+              <a href="https://www.instagram.com/aimin_nur/">
+                <i className="fab fa-instagram"></i>
               </a>
             </div>
           </div>
           <div className="col-md-4 valign">
             <div className="full-width info">
               <div className="d-flex justify-content-end">
-                <a href="mailto:abc@example.com">
+                <a href="https://aiminnur.vercel.app/home">
                   <span className="sub-title fz-12">aiminnur.vercel.app</span>
                 </a>
               </div>

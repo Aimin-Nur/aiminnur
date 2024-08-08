@@ -8,7 +8,7 @@ function Footer() {
           <div className="col-12">
             <div className="text-center">
               <p className="fz-13">
-                © 2023 Muhaimin Nur is Proudly Powered by{' '}
+                © 2023 Muhaimin Nur Powered by{' '}
                 <span className="underline main-color">
                   <a
                     href="https://vercel.com/"

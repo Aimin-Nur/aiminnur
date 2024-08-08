@@ -70,7 +70,7 @@ function Profile() {
               <div>
                 <div className="butn-presv">
                   <a href="https://drive.google.com/file/d/1NhXHtDquaHX32qiFvEvi4Qu0H6rlO6Rx/view" className="butn butn-md butn-bord radius-5 skew">
-                    <span>Donwload CV</span>
+                    <span>Download CV</span>
                   </a>
                 </div>
               </div>

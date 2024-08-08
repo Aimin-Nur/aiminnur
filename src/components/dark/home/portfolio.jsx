@@ -15,7 +15,7 @@ function Portfolio() {
           </div>
           <div className="col-lg-6 valign">
             <div className="go-more full-width d-flex justify-content-end">
-              <a href="/dark/works" className="d-flex">
+              <a href="/home/works" className="d-flex">
                 <span>
                   View All Works{' '}
                   <svg

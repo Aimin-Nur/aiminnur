@@ -1,0 +1,12 @@
+[
+  {
+    "icon": "/assets/imgs/serv-img/4.png",
+    "title": "DATA SCIENCE",
+    "description": "Deep data analysis and statistical modeling to turn data into valuable insights that support better decision making."
+  },
+  {
+    "icon": "/assets/imgs/serv-img/2.png",
+    "title": "WEB DEVELOPMENT",
+    "description": "Responsive and interactive website development, ensuring optimal user experience with attractive design and high functionality."
+  }
+]

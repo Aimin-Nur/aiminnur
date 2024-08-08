@@ -1,0 +1,62 @@
+[
+  {
+    "photo": "/assets/imgs/works/1.png",
+    "title": "Website New Student Registration Application Modern Boarding School Al-Irsyad Gorontalo",
+    "link": "Web Development"
+  },
+  {
+    "photo": "/assets/imgs/works/2.png",
+    "title": "Attedance Web Application With Geo-location PT. Portal Indonesia Perkasa",
+    "link": "Web Development"
+  },
+  {
+    "photo": "/assets/imgs/works/3.png",
+    "title": "Analyst Campaing Marketing Using Random Forest Classifier",
+    "link": "Data Science"
+  },
+  {
+    "photo": "/assets/imgs/works/4.png",
+    "title": "Sentiment Analysis Predictive for the Presidential Election 2024",
+    "link": "Data Science"
+  },
+  {
+    "photo": "/assets/imgs/works/5.png",
+    "title": "JobNest - Jobseeker Web Applications",
+    "link": "Web Development"
+  },
+  {
+    "photo": "/assets/imgs/works/6.png",
+    "title": "Library Websute Application Kalla Institute",
+    "link": "Web Development"
+  },
+  {
+    "photo": "/assets/imgs/works/7.png",
+    "title": "Used Car Price Predictions Using Random Forest Regressor",
+    "link": "Data Science"
+  },
+  {
+    "photo": "/assets/imgs/works/9.png",
+    "title": "Classification Model for Loan Default Risk Prediction",
+    "link": "Data Science"
+  },
+  {
+    "photo": "/assets/imgs/works/10.png",
+    "title": "Analyst Crime in the city of Montreal, Canada, from 2015 to 2021.",
+    "link": "Data Science"
+  },
+  {
+    "photo": "/assets/imgs/works/11.png",
+    "title": "Mobile Price Classification Using Support Vector Machine (SVM)",
+    "link": "Data Science"
+  },
+  {
+    "photo": "/assets/imgs/works/12.png",
+    "title": "Fake and Real News Predictions Using the Gradient Boost Classifier model",
+    "link": "Data Science"
+  },
+  {
+    "photo": "/assets/imgs/works/8.png",
+    "title": "A front-end website for the portfolio of the UMKM business",
+    "link": "Web Development"
+  }
+]

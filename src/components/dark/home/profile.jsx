@@ -55,7 +55,7 @@ function Profile() {
                 <div className="d-flex align-items-center">
                   <h2>4</h2>
                   <p>
-                    Years <br /> Learning Experance
+                    Years <br /> Learning Experiance
                   </p>
                 </div>
               </div>

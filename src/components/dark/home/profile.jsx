@@ -45,7 +45,7 @@ function Profile() {
             Hello, I’m <span className="main-color">Muhaimin Nur</span>, Website
             Developer and{' '}
             <span className="bord">
-              Data Science <i></i>
+              Data Scientist <i></i>
             </span>{' '}
             South Sulawesi, Indonesia.
           </h1>
@@ -55,7 +55,7 @@ function Profile() {
                 <div className="d-flex align-items-center">
                   <h2>4</h2>
                   <p>
-                    Years <br /> Learning Experiance
+                    Years <br /> Learning Experience
                   </p>
                 </div>
               </div>
@@ -63,7 +63,7 @@ function Profile() {
                 <div className="d-flex align-items-center">
                   <h2>49</h2>
                   <p>
-                    Project <br /> Releted Technology
+                    Project <br /> Related Technology
                   </p>
                 </div>
               </div>
